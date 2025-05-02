@@ -1,0 +1,5 @@
+category,count
+total_manoeuvres,64
+total_anomalies,91
+manoeuvres_matched_within_±3d,34
+manoeuvres_unmatched_within_±3d,30
